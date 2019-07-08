@@ -3,7 +3,7 @@ This application connects the task master back end to the users with the help of
 
 ## Screenshot of the app:
 
-![app_screenshot](https://raw.githubusercontent.com/sadhikari07/taskmaster-frontend/master/deployedTaskManager.png)
+![app_screenshot](https://github.com/skadariya/taskmaster-frontend/blob/master/homePage.png)
 
 ## Link to the deployed site: 
 > Coming soon
