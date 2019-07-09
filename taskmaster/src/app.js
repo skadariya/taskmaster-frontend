@@ -35,7 +35,15 @@ function Tasks () {
                   <p>Description: {eachTask.description}</p> 
                   <p>Status: {eachTask.status}</p>
                   <p>Assignee: {eachTask.assignee}</p>
-                  </li>     
+                  <img  alt=" " src={`${eachTask.images}`}/>
+                  <form action={`${API}/${eachTask.id}/images`} method="post" encType="multipart/form-data">
+                  <label>
+                    <span>Upload Image</span>
+                    <input name="file" type="file" />
+                  </label>
+                  <button>Save</button>
+                </form>
+            </li>     
         </ul>
         )}
     </div>

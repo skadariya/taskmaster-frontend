@@ -48,9 +48,14 @@ header{
  border-left: 4px solid blue;
 }
 
-.taks p{
+.tasks p{
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size:14px;
+}
+
+.tasks img{
+  width: 200px;
+  height: 150px;
 }
 
 
