@@ -11,7 +11,7 @@ This application connects the task master back end to the users with the help of
 ## Link to the back end repo:
 > http://task-dev.us-west-2.elasticbeanstalk.com/tasks
 
-## Referemnces:
+## References:
  - https://github.com/codefellows/seattle-java-401d4/tree/master/class-28/demo/floaty-store
  - https://www.ifixit.com/Help/Header_and_Footer_Styling
 
