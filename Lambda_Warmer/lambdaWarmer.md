@@ -9,8 +9,8 @@
 ## Screen Shots
   
 ### Dashboard 
-> ![Dashboard]()
+> ![Dashboard](https://github.com/skadariya/taskmaster-frontend/blob/master/assests/cloudWatchDashBoard.png)
 
 ### Log Files
 
-> ![Log files]()
+> ![Log files](https://github.com/skadariya/taskmaster-frontend/blob/master/assests/logFiles.png)
