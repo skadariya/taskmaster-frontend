@@ -3,7 +3,7 @@ This application connects the task master back end to the users with the help of
 
 ## Screenshot of the app:
 
-![app_screenshot](https://github.com/skadariya/taskmaster-frontend/blob/master/homePage.png)
+![app_screenshot](https://github.com/skadariya/taskmaster-frontend/blob/master/assests/homePage.png)
 
 ## Link to the deployed site: 
 > http://taskmaster1.s3-website-us-west-2.amazonaws.com/
